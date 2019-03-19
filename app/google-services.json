@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "900328440226",
+    "firebase_url": "https://aquakor-f5f1f.firebaseio.com",
+    "project_id": "aquakor-f5f1f",
+    "storage_bucket": "aquakor-f5f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900328440226:android:a8f59f643472b79b",
+        "android_client_info": {
+          "package_name": "com.wildanokt.aquakor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900328440226-apecf28ej13k103a8anssse782o7dnn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wildanokt.aquakor",
+            "certificate_hash": "82fd862d615a54c3b83eec57227567d86f4de653"
+          }
+        },
+        {
+          "client_id": "900328440226-e4sc9i3krndahnfmbp8sc21l5vut361r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7B5fB-KKYk4CUpoOE19XcW8PdFH2BKI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900328440226-e4sc9i3krndahnfmbp8sc21l5vut361r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

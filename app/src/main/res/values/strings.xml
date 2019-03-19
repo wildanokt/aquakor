@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">aquakor</string>
+    <string name="register">Register</string>
+    <string name="login_warn">Already have an account? Login</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="name">Full name</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone number</string>
+    <string name="re_type_pass">Re-type password</string>
+    <string name="register_warn">Don\'t have an account? Register</string>
+</resources>
