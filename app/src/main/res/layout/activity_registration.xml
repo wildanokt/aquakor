@@ -4,19 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="15dp"
     tools:context=".activity.RegistrationActivity"
     android:background="@color/colorPrimaryDark">
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:padding="15dp">
 
         <ImageView
             android:id="@+id/logo"
             android:layout_width="170dp"
             android:layout_height="170dp"
             android:src="@color/colorAccent"
+            android:layout_marginTop="30dp"
             android:layout_centerHorizontal="true"/>
 
         <LinearLayout
@@ -49,8 +50,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="5dp"
-                android:hint="Identity ID"
+                android:hint="@string/identity_id"
                 android:inputType="number"/>
+
+            <EditText
+                android:id="@+id/edt_address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:hint="@string/address"/>
 
             <EditText
                 android:id="@+id/edt_phone"
@@ -114,6 +122,7 @@
             android:id="@+id/pg_regis"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_centerInParent="true"/>
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"/>
     </RelativeLayout>
 </ScrollView>

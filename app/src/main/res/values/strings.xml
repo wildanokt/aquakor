@@ -9,4 +9,8 @@
     <string name="phone_number">Phone number</string>
     <string name="re_type_pass">Re-type password</string>
     <string name="register_warn">Don\'t have an account? Register</string>
+    <string name="identity_id">Identity ID</string>
+    <string name="address">Address</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
 </resources>
